@@ -1,0 +1,16 @@
+//
+//  SignPch.pch
+//  SignTest
+//
+//  Created by lucky on 2018/9/20.
+//  Copyright © 2018年 juli. All rights reserved.
+//
+
+#ifndef SignPch_pch
+#define SignPch_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define RGBColor(r,g,b) [UIColor colorWithRed:(r)/ 255.0f green:(g)/255.0f blue:(b)/ 255.0f alpha:1]
+#endif /* SignPch_pch */
